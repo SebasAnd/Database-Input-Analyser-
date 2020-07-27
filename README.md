@@ -7,7 +7,7 @@ This project was generated with [nodejs] version 10.16.2.
 
 # Install
 
-import the database from a folder "database" using a postgres environment, run `npm install` command to install server dependencies.
+import the database from a folder "database" using a postgres environment and named as crm, run `npm install` command to install server dependencies.
 
 
 ## Development server
